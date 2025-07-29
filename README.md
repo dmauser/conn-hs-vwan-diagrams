@@ -8,9 +8,16 @@ You can download the diagrams directly from the repository in Excalidraw format,
 
 ## Scenario 1 – Traffic hair-pinning using ExpressRoute circuits
 
+[Open diagram with Excalidraw](https://excalidraw.com/#url=https://raw.githubusercontent.com/dmauser/conn-hs-vwan-diagrams/refs/heads/main/Scenario1.excalidraw)
 
 ## Scenario 2 – Build a virtual tunnel (SD-WAN or IPSec)
 
+[Open diagram with Excalidraw](https://excalidraw.com/#url=https://raw.githubusercontent.com/dmauser/conn-hs-vwan-diagrams/refs/heads/main/Scenario2.excalidraw)
+
 ## Scenario 3 – vNet Peering and vHub connection coexistence
 
+[Open diagram with Excalidraw](https://excalidraw.com/#url=https://raw.githubusercontent.com/dmauser/conn-hs-vwan-diagrams/refs/heads/main/Scenario3.excalidraw)
+
 ## Scenario 4 – Transit virtual network for decentralized vNets
+
+[Open diagram with Excalidraw](https://excalidraw.com/#url=https://raw.githubusercontent.com/dmauser/conn-hs-vwan-diagrams/refs/heads/main/Scenario4.excalidraw)
