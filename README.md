@@ -10,8 +10,8 @@ There are few options here to consume those diagrams:
 
 1. Download the diagrams directly from the repository in Excalidraw format
 2. Fork this repo and open the diagram on Visual Studio Code with the [Excalidraw extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor) installed as shown:
-![](./media/vsc-excalidraw.png)
-3. Open them in the Excalidraw editor for further customization and saving using the links on for each scenario below.
+![Screenshot showing the Excalidraw extension in Visual Studio Code](./media/vsc-excalidraw.png)
+3. Open them in the Excalidraw editor for further customization and saving using the links for each scenario below.
 
 ## Scenario 1 – Traffic hair-pinning using ExpressRoute circuits
 
