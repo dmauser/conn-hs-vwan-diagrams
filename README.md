@@ -2,7 +2,9 @@
 
 ## Intro
 
-This repository contains network diagrams that illustrate various connectivity options between Hub-and-Spoke architectures and Azure Virtual WAN. The diagrams are designed to help visualize different scenarios and configurations for network connectivity in Azure.
+This repository contains network diagrams that illustrate various connectivity options between Hub-and-Spoke architectures and Azure Virtual WAN, based on the blog post: [Connectivity options between Hub-and-Spoke and Azure Virtual WAN](https://techcommunity.microsoft.com/blog/azurenetworkingblog/connectivity-options-between-hub-and-spoke-and-azure-virtual-wan/4437383).
+
+The diagrams are designed to help visualize different scenarios and configurations for network connectivity in Azure.
 
 You can download the diagrams directly from the repository in Excalidraw format, or open them in the Excalidraw editor for further customization and saving using the links on for each scenario below.
 
