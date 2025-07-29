@@ -1,7 +1,7 @@
 {
   "type": "excalidraw",
   "version": 2,
-  "source": "https://excalidraw.com",
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
   "elements": [
     {
       "id": "6g1zt72j9CUbBwa5-PNSA",
@@ -7409,8 +7409,8 @@
         "type": 3
       },
       "seed": 811209555,
-      "version": 1706,
-      "versionNonce": 491149989,
+      "version": 1710,
+      "versionNonce": 1071023755,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7426,7 +7426,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1753748907660,
+      "updated": 1753749782948,
       "link": null,
       "locked": false
     },
@@ -7434,7 +7434,7 @@
       "id": "k1q0hrVj4SoqxPAwWaG-C",
       "type": "text",
       "x": 1581.8853631230368,
-      "y": -727.2477615999965,
+      "y": -727.2477615999964,
       "width": 236.12782287597656,
       "height": 86.4,
       "angle": 0,
@@ -7450,11 +7450,11 @@
       "index": "c0mG",
       "roundness": null,
       "seed": 1761751283,
-      "version": 1686,
-      "versionNonce": 8934699,
+      "version": 1687,
+      "versionNonce": 186624683,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753748907489,
+      "updated": 1753749781149,
       "link": null,
       "locked": false,
       "text": "UDR\n- Gateway Propagation Disabled\n- Destination: RFC1918 or 0/0\n- Next Hop: VNet Firewall",
@@ -7470,10 +7470,10 @@
     {
       "id": "iNmd7hzlA09Psg5xee74s",
       "type": "arrow",
-      "x": 1698.5322060846802,
+      "x": 1698.5170384218209,
       "y": -629.4380656736344,
-      "width": 0.3167905438986054,
-      "height": 37.29016852869336,
+      "width": 0.3059203409247857,
+      "height": 37.29016852869381,
       "angle": 0,
       "strokeColor": "#704cb2",
       "backgroundColor": "transparent",
@@ -7489,11 +7489,11 @@
         "type": 2
       },
       "seed": 1041603219,
-      "version": 1864,
-      "versionNonce": 528961509,
+      "version": 1866,
+      "versionNonce": 866335653,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1753748907660,
+      "updated": 1753749782948,
       "link": null,
       "locked": false,
       "points": [
@@ -7502,8 +7502,8 @@
           0
         ],
         [
-          0.3167905438986054,
-          37.29016852869336
+          0.3059203409247857,
+          37.29016852869381
         ]
       ],
       "lastCommittedPoint": null,
@@ -7526,8 +7526,8 @@
       "type": "arrow",
       "x": 1794.4043975886525,
       "y": -557.0058611567156,
-      "width": 229.04222510818954,
-      "height": 2.853300370740726,
+      "width": 239.32558038618004,
+      "height": 72.25991772485258,
       "angle": 0,
       "strokeColor": "#ced4da",
       "backgroundColor": "#a5d8ff",
@@ -7543,8 +7543,8 @@
         "type": 2
       },
       "seed": 474665011,
-      "version": 2359,
-      "versionNonce": 458079749,
+      "version": 2361,
+      "versionNonce": 1969651461,
       "isDeleted": false,
       "boundElements": [
         {
@@ -7552,7 +7552,7 @@
           "id": "HS6T3h1jM2EGiBW6LaKiT"
         }
       ],
-      "updated": 1753748907660,
+      "updated": 1753749782948,
       "link": null,
       "locked": false,
       "points": [
@@ -7561,8 +7561,8 @@
           0
         ],
         [
-          229.04222510818954,
-          2.853300370740726
+          239.32558038618004,
+          -72.25991772485258
         ]
       ],
       "lastCommittedPoint": null,
@@ -8883,8 +8883,7 @@
     "gridSize": 20,
     "gridStep": 5,
     "gridModeEnabled": false,
-    "viewBackgroundColor": "#ffffff",
-    "lockedMultiSelections": {}
+    "viewBackgroundColor": "#ffffff"
   },
   "files": {}
 }

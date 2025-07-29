@@ -8226,8 +8226,8 @@
         "type": 3
       },
       "seed": 1101068189,
-      "version": 1377,
-      "versionNonce": 2108005488,
+      "version": 1379,
+      "versionNonce": 821160080,
       "isDeleted": false,
       "boundElements": [
         {
@@ -8243,7 +8243,7 @@
           "type": "arrow"
         }
       ],
-      "updated": 1753748894679,
+      "updated": 1753749764346,
       "link": null,
       "locked": false
     },
